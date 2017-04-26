@@ -1,6 +1,6 @@
 # Melody-Generator
 ## Description
-Hello User, this is a school project where we can genrate a random melody. This project uses 
+Hello User, this is a school project where we can genrate a random melody. This project uses music21 as a 3rd party library.
 
 ## Installation
 
