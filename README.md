@@ -13,7 +13,7 @@ pip install virtualenv
 virtualenv env
 source env/Scripts/activate
 After that there should be (env) above the cmd line.
--Install music21
+- Install music21
 After setting up virtual environment install music21 using the pip command
 pip install music21
 -Running the program
